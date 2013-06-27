@@ -1,9 +1,9 @@
-Appcelerator Services 
+#Appcelerator Services 
 
 A collection of Appcelerator modules that can be used together to download, update and install SQL Light databases and images
 as well as using cached images.
 
-Download Database:
+##Download Database:
 
 To check for updates before downloading the database enable this feature by passing in a remote versionAddress url
 that returns a version number, this number will be written to a local text file named 'version.txt'.
@@ -34,7 +34,7 @@ that returns a version number, this number will be written to a local text file 
  </pre>
 </code>
 
-Installing Database:
+##Installing Database:
 
 <pre>
 <code>
@@ -57,7 +57,7 @@ Installing Database:
  </pre>
 </code>
 
-Downloading Images:
+##Downloading Images:
 
 <pre>
 <code>
@@ -84,9 +84,9 @@ Downloading Images:
  </pre>
 </code>
 
-Getting cached Images
+##Getting cached Images
 
-based on Appcelerator's [ Image Best Practices ]( http://docs.appcelerator.com/titanium/latest/#!/guide/Image_Best_Practices )
+Based on Appcelerator's [ Image Best Practices ]( http://docs.appcelerator.com/titanium/latest/#!/guide/Image_Best_Practices )
 
 <pre>
 <code>
